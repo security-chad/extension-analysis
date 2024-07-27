@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2tUrvwq4b9RrKTxI+euDsYPoWVq2lMPF4g/bMjwVVb6h2pXuQ8YF1nFnOsj2yN14VtajezHXa9xXvGLT3mjkVYyJh3ILYgc4CrnPLb8zyYxu3dpLO7bBWoI941sMCkkXrK5j0It0cil38CZ5O/tYU8MrrTAE6SwwUsOIlb6tMlqepKiUNFAv+AsY0y9oRS5L7iOzNEiI0GybpfsqlDAdUGA+IwW5RRGWpvrTy4lq5wHjZoXnmVk3JUOLsWzUSbraj8NFY8WaO7i3yrYN2Q6liw9eaXWucrI/6gTzUFnRbFGh3Ed0oU8BSvpTEyUE76VhsP25U0AKxjYSuijnkqLcTwIDAQAB",
+  "name": "Grass Community Node",
+  "description": "Earn a stake in the AI revolution.",
+  "update_url": "https://files.getgrass.io/file/grass-extension-upgrades/extension-config/grass-extension-updater.xml",
+  "version": "4.20.2",
+  "homepage_url": "https://www.getgrass.io/",
+  "icons": {
+    "16": "icons/icon_16.png",
+    "32": "icons/icon_32.png",
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Grass Community Node",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage",
+    "background",
+    "webRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "externally_connectable": {
+    "matches": [
+      "http://127.0.0.1/*",
+      "http://localhost/*",
+      "*://*.getgrass.io/*"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Grass Extension"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Your view of the internet is valuable. Get paid for it.",
+   "externally_connectable": {
+      "matches": [ "http://127.0.0.1/*", "http://localhost/*", "*://*.getgrass.io/*" ]
+   },
+   "homepage_url": "https://www.getgrass.io/",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/icon_16.png",
+      "32": "icons/icon_32.png",
+      "48": "icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuQNQIhiPzmifa28/SwJCwnh6g1VNKkYD3qmQZxw5bKUyY+G0LQe2+20q9QDzimAYJp+HSt9fR05B86iRomZaz17IA4PwE23LIIwaH8aM3L5VdZOJ4+MNDIA0DVouKIq5Ncoh80Db6Da9ZM6DGooGdw+Fpx08t2tx26Ad7/6PXuXXh1yntbZJBBe9mSoIXQDW2NMv2iz7/vmZn38eMVbkGls4AULpjFhJRSFvgh0ViI93RktptM3OzFNLVpwry0+PyxM4btgL95iuNZLbHZTPaKw3aLvjvsriVLxPRIFJ7LEkvdNKth05rkykKWp4K+usvcESC9GuwGwaVMc5cpxdWQIDAQAB",
+   "manifest_version": 3,
+   "name": "Grass Extension",
+   "permissions": [ "storage", "background", "webRequest", "declarativeNetRequestWithHostAccess" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.3"
+}

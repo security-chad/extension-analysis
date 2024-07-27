@@ -1,0 +1,17 @@
+<svg viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="wifi" clip-path="url(#clip0_4408_88780)">
+<path
+      id="Icon"
+      d="M12.4987 19.5H12.5087M23.3051 8.70076C20.4582 6.09199 16.6643 4.5 12.4985 4.5C8.3328 4.5 4.53889 6.09199 1.69202 8.70076M5.23059 12.243C7.16871 10.5357 9.71273 9.5 12.4986 9.5C15.2845 9.5 17.8286 10.5357 19.7667 12.243M16.197 15.7751C15.1779 14.9763 13.8938 14.5 12.4985 14.5C11.0821 14.5 9.78038 14.9908 8.75403 15.8116"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+</g>
+<defs>
+<clipPath id="clip0_4408_88780">
+<rect width="24" height="24" fill="white" transform="translate(0.5)" />
+</clipPath>
+</defs>
+</svg>

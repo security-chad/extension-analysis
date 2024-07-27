@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32704d05.css",
+    "main.js": "/static/js/main.17d5cb75.js",
+    "static/media/token.png": "/static/media/token.b697bf5c1b7a72aec310.png",
+    "static/media/poppins-all-400-normal.woff": "/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/dm-sans-latin-wght-normal.woff2": "/static/media/dm-sans-latin-wght-normal.e9bf94707ccc28665346.woff2",
+    "static/media/dm-sans-latin-ext-wght-normal.woff2": "/static/media/dm-sans-latin-ext-wght-normal.c2c2267a3117f34a8491.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/mail-circle-icon.svg": "/static/media/mail-circle-icon.091e42039237946070a379a94fbf2d67.svg",
+    "static/media/splash-screen-grass-logo.svg": "/static/media/splash-screen-grass-logo.895f8fc4b996dc756686bfacd0b1fd05.svg",
+    "static/media/link-plus-icon.svg": "/static/media/link-plus-icon.6e80e610d0f23820fafd5d42156310b2.svg",
+    "static/media/grass-logo.svg": "/static/media/grass-logo.dde62768e1a57e3f1ab70ed83ab88794.svg",
+    "static/media/dashboard-icon.svg": "/static/media/dashboard-icon.f1606df909ba0cb04b165ca4e5c93271.svg",
+    "static/media/wifi-off.svg": "/static/media/wifi-off.cd3a2cc867eb5b025a037b98e3458f64.svg",
+    "static/media/at-icon.svg": "/static/media/at-icon.e4770a6357227be96c97bf757df251bf.svg",
+    "static/media/wifi-high.svg": "/static/media/wifi-high.0f0036ae547c05171a64a6b9334d1270.svg",
+    "static/media/ellipsis-icon.svg": "/static/media/ellipsis-icon.8c0d2ad8dc8e50197cc933e8e31e968c.svg",
+    "static/media/wifi-med.svg": "/static/media/wifi-med.f1ca3a152b6cd43cd9d108540f3e8822.svg",
+    "static/media/wifi-low.svg": "/static/media/wifi-low.a67a2f18aa37f8d2641bd300e0425ae7.svg",
+    "index.html": "/index.html",
+    "static/media/refresh-icon.svg": "/static/media/refresh-icon.48b6e4d467b3fe7ab56adc162c92dca8.svg",
+    "static/media/logout-icon.svg": "/static/media/logout-icon.67003874097784ffb2fd3613dbe513af.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.bed1b1039641b58c0244346cb68c6319.svg",
+    "main.32704d05.css.map": "/static/css/main.32704d05.css.map",
+    "main.17d5cb75.js.map": "/static/js/main.17d5cb75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32704d05.css",
+    "static/js/main.17d5cb75.js"
+  ]
+}

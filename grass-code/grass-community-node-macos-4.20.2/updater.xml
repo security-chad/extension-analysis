@@ -1,0 +1,5 @@
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="lkbnfiajjmbhnfledhphioinpickokdi">
+    <updatecheck codebase="https://files.getgrass.io/file/grass-extension-upgrades/extension-latest/grass-4.20.2.crx" version="4.20.2"/>
+  </app>
+</gupdate>
